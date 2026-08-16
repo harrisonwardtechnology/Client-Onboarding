@@ -29,13 +29,15 @@ If you are a buyer, read `pre-engagement/discovery-questionnaire.md`. If a consu
 
 1. Copy this repo, or just copy the files you need
 2. Work through the folders in order. They are numbered by when you need them
-3. Keep the filled-in copies somewhere private. Not here, not in any public repo
-4. Delete what does not apply. A form nobody answers is worse than no form
+3. For the fastest start, send the eight one-pagers in `forms/`. One page per person beats one giant document for everyone
+4. Keep the filled-in copies somewhere private. Not here, not in any public repo
+5. Delete what does not apply. A form nobody answers is worse than no form
 
 ## The map
 
 | Folder | When | What is in it |
 |---|---|---|
+| `forms/` | Send on day one | **Eight one-page fill-in sheets, split by who answers them.** Start here |
 | `pre-engagement/` | Before you quote | Discovery questions, scoping, go or no-go, red flags |
 | `intake/` | After signing, before kickoff | Tech stack, compliance drivers, incident history, vendors, data map |
 | `access/` | Week one | What access you need, what you should refuse, how to ask |
